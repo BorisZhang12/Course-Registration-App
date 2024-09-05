@@ -1,0 +1,11 @@
+{
+    "name": "Courses",
+    "Courses": [{
+        "waitlist seats": 100,
+        "subject": "CPSC",
+        "name": "CPSC 110",
+        "description": "First year cpsc course",
+        "id": "110",
+        "seats": 100
+    }]
+}
