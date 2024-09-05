@@ -1,0 +1,19 @@
+{
+    "courses": [{
+        "waitlist seats": 10,
+        "subject": "CPSC",
+        "name": "CPSC 110",
+        "description": "First year Computer Science Course",
+        "id": "110",
+        "seats": 9
+    }],
+    "waitlists": [{
+        "waitlist seats": 9,
+        "subject": "CPSC",
+        "name": "CPSC 110",
+        "description": "First year Computer Science Course",
+        "id": "110",
+        "seats": 10
+    }],
+    "name": "John Doe"
+}
